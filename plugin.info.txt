@@ -1,0 +1,7 @@
+base   plugin4test
+author mokusou
+email  mokusou.recon@gmail.com
+date   2023-05-3
+name   Testing Purpose Plugin
+desc   Allow me to get my hands dirty with dokuwiki's plugin system.
+url    https://www.dokuwiki.org/plugin:plugin4test
